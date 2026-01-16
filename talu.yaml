@@ -1,0 +1,6 @@
+path: C:\Users\Tristan\Downloads\train_yolo_to_detect_custom_object\yolo_custom_detection
+train: FerretJSON/images
+val: FerretJSON/images
+
+names:
+    0: Talulah
