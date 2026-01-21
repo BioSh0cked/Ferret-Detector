@@ -26,3 +26,12 @@ pip install -r requirements.txt
 2. After loading model, select confidence threshold.
 
 3. Add desired camera (Optionally record output).
+
+
+### Previous Progress
+---
+Originially had a yolov3 model with labeled dataset images with no paramater optimizations.
+
+### AI Usage
+---
+Moderate in-line code completions were used in the creation of utlity scripts.
