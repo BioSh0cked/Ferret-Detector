@@ -1,5 +1,5 @@
 # Ferret Detector
-A Single-class Yolo11x model for ferrets with two utility scripts
+A Single-class Yolo11x model for ferrets with two utility scripts.
 
 ## Utility
 
