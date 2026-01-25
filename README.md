@@ -35,3 +35,8 @@ Originially had a yolov3 model with labeled dataset images with no paramater opt
 ### AI Usage
 ---
 Moderate in-line code completions were used in the creation of utlity scripts.
+Hours were already reduced to account for this, the scripts are simply to make the model demoable and the notebook was included as it was involved in the creation of the model.
+This project is simply to highlight the model and as such was done with manual journaling as most task cannot be performed in the IDE. Tab completions were used with full and clear understanding as planned code.
+
+
+![Using model, you should give it a try](https://i.ibb.co/Vp2rd960/image.png)
